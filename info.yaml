@@ -24,7 +24,7 @@ documentation:
   author:       "Andrew Nam"      # Your name
   title:        "2-Bit ALU + Dice"      # Project title
   language:     "Wokwi" # other examples include Verilog, Amaranth, VHDL, etc
-  description:  "This is a 2-Bit Arithmetic Logic Unit (ALU) combned with a pseudo-dice. It can translate binary code into single digit display as well."      # Short description of what your project does
+  description:  "This is an extremely professional design that Steve Jobs approves. It consists of a 2-bit ALU and an impressive dice. Can translate binary code into single digit display."      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
   how_it_works: |
